@@ -13,7 +13,7 @@ def parse_fizzbuzz(to_number, fizz_dividable, buzz_dividable):
         else: 
             print(num)
 
-print(sys.argv)
+
 to_number = int(sys.argv[1])
 fizz_dividable = int(sys.argv[2])
 buzz_dividable = int(sys.argv[3])
