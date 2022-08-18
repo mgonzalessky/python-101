@@ -1,3 +1,5 @@
+# INPUT() 
+
 name = input("insert your name: ")
 age = int(input("insert your age: "))
 birth_year = 2022-age
